@@ -1,1 +1,2 @@
 This is File2
+New edits made in File2
